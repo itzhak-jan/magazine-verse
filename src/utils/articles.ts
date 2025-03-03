@@ -51,7 +51,7 @@ export const articles: Article[] = [
   },
   {
     id: "2",
-    title: "Sustainable Architecture: Building for Tomorrow",
+    title: "Sustainable Architecture: Building for Tomorrow 2",
     subtitle: "How eco-conscious design is reshaping our cities",
     author: "Jordan Lee",
     date: "May 22, 2023",
