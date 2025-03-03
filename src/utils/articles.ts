@@ -17,7 +17,7 @@ export interface Article {
 export const articles: Article[] = [
   {
     id: "1",
-    title: "The Art of Minimalism in Modern Design 01",
+    title: "The Art of Minimalism in Modern Design",
     subtitle: "How less became more in contemporary aesthetics",
     author: "Alex Morgan",
     date: "June 15, 2023",
